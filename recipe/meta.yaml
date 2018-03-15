@@ -1,10 +1,10 @@
 {% set provider= "Archive" %}
-{% set version = "1.0.0" %}
+{% set version = "1.0.1" %}
 
 {% set name = "terraform-provider-" + provider.lower() %}
 {% set x4_plugin = name + '_v' + version + "_x4" %}
 
-{% set sha256 = "a6c279d2cc62ad87dcd6e4dcb4b04d1ab5ca2de5ae361031650a3ba0dbc500de" %}
+{% set sha256 = "09cb175693cbc3982c8d9af7eceb1089c329cc207cff5b1695843877e9ccfc30" %}
 {% set sha256_win32 = "298ff8405fe21f2b57748f42a8e609e31e4e753ab1559428f008428b43118bcf" %}
 {% set sha256_win64 = "d4f8942721a297b68f5f429492cc73f979b101fc6a431bfb22a89ac133519bea" %}
 
