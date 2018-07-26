@@ -14,14 +14,16 @@ Summary: The Terraform Archive provider
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/terraform-provider-archive-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/terraform-provider-archive-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/terraform-provider-archive-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/terraform-provider-archive-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/terraform-provider-archive-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/terraform-provider-archive-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/terraform-provider-archive-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/terraform-provider-archive-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/terraform-provider-archive-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/terraform-provider-archive-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/terraform-provider-archive-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/terraform-provider-archive-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-archive/badges/version.svg)](https://anaconda.org/conda-forge/terraform-provider-archive)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-archive/badges/downloads.svg)](https://anaconda.org/conda-forge/terraform-provider-archive)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-terraform--provider--archive-green.svg)](https://anaconda.org/conda-forge/terraform-provider-archive) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/terraform-provider-archive.svg)](https://anaconda.org/conda-forge/terraform-provider-archive) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/terraform-provider-archive.svg)](https://anaconda.org/conda-forge/terraform-provider-archive) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/terraform-provider-archive.svg)](https://anaconda.org/conda-forge/terraform-provider-archive) |
 
 Installing terraform-provider-archive
 =====================================
