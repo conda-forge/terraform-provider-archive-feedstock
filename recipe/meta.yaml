@@ -15,7 +15,6 @@ source:
   url: https://{{ goname }}/archive/v{{ version }}.tar.gz
   sha256: 9a89b4528f7c4dc425a00235b7018a421d5dc9d3de9f1cdb47b7fa5a149c8ce7
 
-
 build:
   number: 0
   script:
@@ -23,7 +22,7 @@ build:
 
 requirements:
   build:
-    - {{ compiler('go') }} 1.13
+    - {{ compiler('go') }} 1.19
 
 test:
   requires:
