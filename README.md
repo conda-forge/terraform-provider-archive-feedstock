@@ -1,11 +1,11 @@
-About terraform-provider-archive
-================================
+About terraform-provider-archive-feedstock
+==========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terraform-provider-archive-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.terraform.io
 
 Package license: MPL-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terraform-provider-archive-feedstock/blob/main/LICENSE.txt)
 
 Summary: The Terraform Archive provider
 
